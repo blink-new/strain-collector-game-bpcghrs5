@@ -83,8 +83,8 @@ module.exports = {
   		},
   		fontFamily: {
   			sans: [
-  				'Inter var',
-  				'sans-serif'
+  				'"Press Start 2P"',
+  				'cursive'
   			]
   		},
   		animation: {
@@ -137,4 +137,4 @@ module.exports = {
   	}
   },
   plugins: [require("tailwindcss-animate")],
-} 
+}
